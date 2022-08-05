@@ -1,2 +1,2 @@
-# quikie-draggable-components
+# redux
 Created with CodeSandbox

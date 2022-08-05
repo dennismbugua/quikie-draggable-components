@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.sublist {
+  display: none;
+}
+.submit:hover .sublist {
+  display: block;
+}
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 25px;
+}
+ul {
+  list-style: none;
+}
+.header {
+  background-color: #407294;
+  display: flex;
+  color: #1f9df4;
+}
+.main {
+  font-size: 27px;
+}
+.sub {
+  color: black;
+}
+
+.Draggable_Item {
+  padding: 0.1rem;
+}
+
+.card {
+  align-items: center;
+  width: 49%;
+  height: 105px;
+  background-color: gainsboro;
+}
+#myInput {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e9/Vector_search_icon.png");
+  background-position: 10px 30px;
+  background-repeat: no-repeat;
+  width: 80%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+  border-radius: 12px;
+}
